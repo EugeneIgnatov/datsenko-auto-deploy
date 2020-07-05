@@ -1,24 +1,20 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
+// import logo from './logo.svg';
+import TellMeWhy from './components/TellMeWhy';
 import './App.css';
 
 function App() {
+  // const [care, setCare] = useState(false);
+  // const [suffer, setSuffer] = useState(false);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <TellMeWhy
+      // care={care}
+      // setCare={setCare}
+      // suffer={suffer}
+      // setSuffer={setSuffer}
+      />
     </div>
   );
 }

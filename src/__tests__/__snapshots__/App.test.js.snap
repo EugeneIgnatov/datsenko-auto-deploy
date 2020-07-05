@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the corect content  1`] = `
+<div
+  class="App"
+>
+  <div>
+    <h1>
+      Tell me why you gave me such a hard topic to learn?
+    </h1>
+    <h3>
+      Because I care
+    </h3>
+    <button
+      data-testid="careBtn"
+    >
+      Care Vote
+    </button>
+    <h3>
+      Because I want you to suffer
+    </h3>
+    <button
+      data-testid="sufferBtn"
+    >
+      Suffer Vote
+    </button>
+  </div>
+</div>
+`;
