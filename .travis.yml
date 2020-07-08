@@ -2,10 +2,13 @@ language: node_js
 node_js:
   - node
 cache:
-  directories:
-    - node_modules
+  yarn
+  # directories:
+  #   - node_modules
+install:
+  - yarn ci
 script:
-  - npm run build
+  - yarn run build
 deploy:
   provider: pages
   skip_cleanup: true
