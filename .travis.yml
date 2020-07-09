@@ -9,13 +9,12 @@ install:
   - yarn install
 script:
   - yarn run build
-  - yarn run deploy
+  
 deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   local_dir: build
-   keep_history: true
   on:
     branch: master
 
