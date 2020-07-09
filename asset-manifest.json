@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/EugeneIgnatov/datsenko-auto-deploy/static/css/main.eab24d3c.chunk.css",
-    "main.js": "/EugeneIgnatov/datsenko-auto-deploy/static/js/main.74e73200.chunk.js",
-    "main.js.map": "/EugeneIgnatov/datsenko-auto-deploy/static/js/main.74e73200.chunk.js.map",
-    "runtime-main.js": "/EugeneIgnatov/datsenko-auto-deploy/static/js/runtime-main.71346ff3.js",
-    "runtime-main.js.map": "/EugeneIgnatov/datsenko-auto-deploy/static/js/runtime-main.71346ff3.js.map",
-    "static/js/2.a8c294bc.chunk.js": "/EugeneIgnatov/datsenko-auto-deploy/static/js/2.a8c294bc.chunk.js",
-    "static/js/2.a8c294bc.chunk.js.map": "/EugeneIgnatov/datsenko-auto-deploy/static/js/2.a8c294bc.chunk.js.map",
-    "index.html": "/EugeneIgnatov/datsenko-auto-deploy/index.html",
-    "precache-manifest.c5f56d14df1189673215652f24df1df2.js": "/EugeneIgnatov/datsenko-auto-deploy/precache-manifest.c5f56d14df1189673215652f24df1df2.js",
-    "service-worker.js": "/EugeneIgnatov/datsenko-auto-deploy/service-worker.js",
-    "static/css/main.eab24d3c.chunk.css.map": "/EugeneIgnatov/datsenko-auto-deploy/static/css/main.eab24d3c.chunk.css.map",
-    "static/js/2.a8c294bc.chunk.js.LICENSE.txt": "/EugeneIgnatov/datsenko-auto-deploy/static/js/2.a8c294bc.chunk.js.LICENSE.txt"
+    "main.css": "/datsenko-auto-deploy/static/css/main.eab24d3c.chunk.css",
+    "main.js": "/datsenko-auto-deploy/static/js/main.a94ec856.chunk.js",
+    "main.js.map": "/datsenko-auto-deploy/static/js/main.a94ec856.chunk.js.map",
+    "runtime-main.js": "/datsenko-auto-deploy/static/js/runtime-main.6f0ce8ee.js",
+    "runtime-main.js.map": "/datsenko-auto-deploy/static/js/runtime-main.6f0ce8ee.js.map",
+    "static/js/2.a8c294bc.chunk.js": "/datsenko-auto-deploy/static/js/2.a8c294bc.chunk.js",
+    "static/js/2.a8c294bc.chunk.js.map": "/datsenko-auto-deploy/static/js/2.a8c294bc.chunk.js.map",
+    "index.html": "/datsenko-auto-deploy/index.html",
+    "precache-manifest.8642952a1a6d6980d4e41e38f21eae69.js": "/datsenko-auto-deploy/precache-manifest.8642952a1a6d6980d4e41e38f21eae69.js",
+    "service-worker.js": "/datsenko-auto-deploy/service-worker.js",
+    "static/css/main.eab24d3c.chunk.css.map": "/datsenko-auto-deploy/static/css/main.eab24d3c.chunk.css.map",
+    "static/js/2.a8c294bc.chunk.js.LICENSE.txt": "/datsenko-auto-deploy/static/js/2.a8c294bc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.71346ff3.js",
+    "static/js/runtime-main.6f0ce8ee.js",
     "static/js/2.a8c294bc.chunk.js",
     "static/css/main.eab24d3c.chunk.css",
-    "static/js/main.74e73200.chunk.js"
+    "static/js/main.a94ec856.chunk.js"
   ]
 }
