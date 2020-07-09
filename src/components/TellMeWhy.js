@@ -18,7 +18,7 @@ const TellMeWhy = () =>
         >
           Care Vote
         </button>
-        <h3>Because I want you to suffer!</h3>
+        <h3>Because I want you to suffer!!!</h3>
         {suffer && <p>Well I still wanna see those abs!</p>}
         <button data-testid='sufferBtn' onClick={() => setSuffer(!suffer)}>
           Suffer Vote
