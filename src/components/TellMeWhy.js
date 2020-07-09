@@ -8,7 +8,7 @@ const TellMeWhy = () =>
     return (
       <div>
         <h1>Tell me why you gave me such a hard topic to learn?</h1>
-        <h3>Because I care</h3>
+        <h3>Because I care!</h3>
         {care && <p data-testid='careTxt'>Well let me see those abs then!</p>}
         <button
           data-testid='careBtn'
